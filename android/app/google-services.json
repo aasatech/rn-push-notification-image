@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "715621857637",
+    "firebase_url": "https://pthree-staging.firebaseio.com",
+    "project_id": "pthree-staging",
+    "storage_bucket": "pthree-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715621857637:android:073b2ae4ce9f585310898c",
+        "android_client_info": {
+          "package_name": "com.jp.baban.support"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715621857637-04ss5cmgg4grfn2hi8u01g461bnij0ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PtiXCIfUQqd7Wu6AF-pZaHad_7UMh4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715621857637-04ss5cmgg4grfn2hi8u01g461bnij0ll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715621857637-5bornttr6r0k0j029sti4q4ouf631mc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pthree.staging"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715621857637:android:9360248e481c727a10898c",
+        "android_client_info": {
+          "package_name": "com.jp.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715621857637-04ss5cmgg4grfn2hi8u01g461bnij0ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PtiXCIfUQqd7Wu6AF-pZaHad_7UMh4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715621857637-04ss5cmgg4grfn2hi8u01g461bnij0ll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715621857637-5bornttr6r0k0j029sti4q4ouf631mc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pthree.staging"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715621857637:android:62c7dfef7ac05cbd10898c",
+        "android_client_info": {
+          "package_name": "com.notificationservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715621857637-04ss5cmgg4grfn2hi8u01g461bnij0ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PtiXCIfUQqd7Wu6AF-pZaHad_7UMh4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715621857637-04ss5cmgg4grfn2hi8u01g461bnij0ll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715621857637-5bornttr6r0k0j029sti4q4ouf631mc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pthree.staging"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715621857637:android:e83a3cb744278a6110898c",
+        "android_client_info": {
+          "package_name": "com.pthree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715621857637-04ss5cmgg4grfn2hi8u01g461bnij0ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PtiXCIfUQqd7Wu6AF-pZaHad_7UMh4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715621857637-04ss5cmgg4grfn2hi8u01g461bnij0ll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715621857637-5bornttr6r0k0j029sti4q4ouf631mc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pthree.staging"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715621857637:android:8d2b88edfcf17a9310898c",
+        "android_client_info": {
+          "package_name": "com.pthree.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715621857637-04ss5cmgg4grfn2hi8u01g461bnij0ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PtiXCIfUQqd7Wu6AF-pZaHad_7UMh4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715621857637-04ss5cmgg4grfn2hi8u01g461bnij0ll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715621857637-5bornttr6r0k0j029sti4q4ouf631mc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pthree.staging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
